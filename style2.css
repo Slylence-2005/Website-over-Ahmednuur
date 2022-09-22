@@ -1,1 +1,4 @@
-body {background-color: slategrey;}
+body {
+    height: 100%;
+    background: linear-gradient(90deg, #808080 50%, #4169e1 50%);
+}
