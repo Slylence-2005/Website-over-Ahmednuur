@@ -2,3 +2,4 @@ body {
     height: 100%;
     background: linear-gradient(90deg, #4169e1 50%, #808080 50%);
 }
+body { background-image:url('snow.gif'); background-repeat:repeat; }
